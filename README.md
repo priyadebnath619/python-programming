@@ -1,45 +1,54 @@
 # 🐍 Python Programming
 
-Welcome to my **Python Programming** repository!
-This repository contains my Python programs, practice questions, and learning exercises as I build my programming skills.
+Welcome to my **Python Programming** repository! 
 
-## 📌 About
-
-I created this repository to practice and improve my understanding of Python programming, starting from basic concepts and gradually moving toward more advanced topics.
+This repository contains my Python programs and practice exercises that I am working on to improve my programming and problem-solving skills.
 
 ## 📚 Topics Covered
 
-* 🖨️ Input & Output
-* 🔢 Variables & Data Types
-* ➕ Operators
-* 🔀 Conditional Statements
-* 🔁 Loops
-* 📋 Lists, Tuples & Sets
-* 📖 Dictionaries
-* 🔤 Strings
-* ⚙️ Functions
-* 🧩 Match-Case Statements
-* 🧮 Basic Problem Solving
-* 🗂️ File Handling
-* 🛠️ Object-Oriented Programming
+- 🔢 Basic Python Programs
+- 🔄 Loops and Conditional Statements
+- 🔤 Strings
+- 📋 Lists and Collections
+- 🧮 Mathematical Programs
+- 🔍 Searching Algorithms
+- 📊 Sorting Algorithms
+- 🧩 Functions
+- 🔢 Number-Based Programs
+- 🧠 Problem-Solving Programs
 
-## 💻 Programs Included
+## 📂 Programs Included
 
 Some of the programs in this repository include:
 
-* Check Even or Odd
-* Check Prime Number
-* Check Leap Year
-* Reverse a Number
-* Factorial of a Number
-* Grade Calculator
-* Season Finder
-* Multiplication Programs
-* Basic Calculator
-* List Programs
-* Function-Based Programs
-* And many more practice programs
+- Factorial
+- Fibonacci Sequence
+- GCD (Greatest Common Divisor)
+- Primality Check
+- Sorting
+- Nearest Neighbor Search
+- And more Python practice programs
 
-## 🎯 Goal
+## 🛠️ Technologies Used
 
-The main goal of this repository is to **practice Python regularly, improve problem-solvi**
+- **Python 3**
+- **Visual Studio Code**
+- **Git & GitHub**
+
+## 🎯 Purpose
+
+The main purpose of this repository is to:
+
+- Practice Python programming
+- Improve logical thinking and problem-solving
+- Learn different programming concepts
+- Build a collection of Python programs
+- Track my programming progress using GitHub
+
+## 🚀 How to Run
+
+1. Install **Python 3** on your computer.
+2. Clone this repository:
+
+```bash
+git clone https://github.com/priyadebnath619/python-programming.git
